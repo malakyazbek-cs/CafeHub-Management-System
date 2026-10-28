@@ -72,4 +72,6 @@ From sales and inventory to suppliers, staff, and book circulation, CaféHub bri
 
 ## Project Demo
 
+https://github.com/user-attachments/assets/1b25eaea-d778-4c05-b148-5bf1b6c70111
+
 **CaféHub — Where Coffee Meets Books.**
