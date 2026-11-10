@@ -40,8 +40,8 @@ From sales and inventory to suppliers, staff, and book circulation, CaféHub bri
 
 - **Language & Interface:** Java, Swing, AWT
 - **IDE:** NetBeans
-- **Database & Connectivity:** MySQL, Oracle Database, JDBC
-- **Database Logic:** SQL, PL/SQL triggers, views, stored procedures
+- **Database & Connectivity:** MySQL, JDBC
+- **Database Logic:** SQL, triggers, views, stored procedures
 - **Database Modelling:** SAP PowerDesigner
 - **Charts & Reporting:** JFreeChart, iTextPDF, Apache POI
 
